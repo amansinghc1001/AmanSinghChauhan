@@ -440,6 +440,7 @@ input, textarea {
 textarea {
   height: 120px;
   resize: none;
+  
 }
 .contact-info p {
 font-size: 1.6rem;
